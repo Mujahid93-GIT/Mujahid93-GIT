@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mujahid93-GIT
-- 👀 I’m interested in knowing the world facts
-- 🌱 I’m currently learning about DevOps
+- 👀 I’m interested in Software Technology
+- 🌱 I’m currently learning DevOps technology.
 - 💞️ I’m looking to collaborate on developing a project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
