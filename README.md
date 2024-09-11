@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Mujahid93-GIT
-- 👀 I’m interested in Software Technology
-- 🌱 I’m currently learning DevOps technology.
+- 👋 Hi, I’m Mujahid
+- 👽 I’m currently working on DevOps projects by using tools like GIT, GitHub, Jenkins, Docker, Ansible, Terraform, Kubernetes...etc.,
 - 💞️ I’m looking to collaborate on developing a project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
